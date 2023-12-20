@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContatusApiConsole", "ContatusApiConsole\ContatusApiConsole.csproj", "{4AA1BF68-DA80-4373-AF36-381CB540FEF7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4AA1BF68-DA80-4373-AF36-381CB540FEF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AA1BF68-DA80-4373-AF36-381CB540FEF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AA1BF68-DA80-4373-AF36-381CB540FEF7}.Debug|x64.ActiveCfg = Debug|x64
+		{4AA1BF68-DA80-4373-AF36-381CB540FEF7}.Debug|x64.Build.0 = Debug|x64
+		{4AA1BF68-DA80-4373-AF36-381CB540FEF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AA1BF68-DA80-4373-AF36-381CB540FEF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AA1BF68-DA80-4373-AF36-381CB540FEF7}.Release|x64.ActiveCfg = Release|x64
+		{4AA1BF68-DA80-4373-AF36-381CB540FEF7}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36A0C24E-992E-4D96-8253-A4A20AA00F5A}
+	EndGlobalSection
+EndGlobal
